@@ -3,5 +3,6 @@ public class Program {
     System.out.println("Hello world!");
     System.out.println("One more comment");
     System.out.println("This in new commet instead old one");
+    System.out.println("Second commit for conflic resolver in git hub");
   }
 }
